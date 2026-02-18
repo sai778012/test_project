@@ -6,3 +6,5 @@ def login(user_input):
     else:
         print("Access Denied")
 print("Testing CodeRabbit")
+print("Hello CodeRabbit!")  # testing purpose
+
