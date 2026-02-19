@@ -5,10 +5,6 @@ def login(user_input):
         print("Access Granted")
     else:
         print("Access Denied")
-print("Testing CodeRabbit")
-<<<<<<< review-test
-# This is a test change for CodeRabbit review
-=======
-# Testing CodeRabbit
->>>>>>> main
 
+print("Testing CodeRabbit")
+# This is a test change for CodeRabbit review
