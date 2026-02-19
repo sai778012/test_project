@@ -8,3 +8,4 @@ def login(user_input):
 
 print("Testing CodeRabbit")
 # This is a test change for CodeRabbit review
+print("On-Demand report test")
