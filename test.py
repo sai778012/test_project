@@ -7,7 +7,6 @@ def login(user_input):
         print("Access Denied")
 
 print("Testing CodeRabbit")
-# This is a test change for CodeRabbit review
-print("Version 2 Testing")
-
+print("Hello CodeRabbit!")  
+# testing purpose
 
